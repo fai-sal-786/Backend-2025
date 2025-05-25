@@ -1,0 +1,18 @@
+{
+  "name": "class-4",
+  "version": "1.0.0",
+  "description": "this is backend class-4",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "class-4"
+  ],
+  "author": "Faisal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
